@@ -1,0 +1,4 @@
+C:\Users\umer\Documents\Visual Studio 2010\Projects\Online_Auction_Website_TestPhase\Online_Auction_Website_TestPhase\bin\Online_Auction_Website_TestPhase.dll
+C:\Users\umer\Documents\Visual Studio 2010\Projects\Online_Auction_Website_TestPhase\Online_Auction_Website_TestPhase\bin\Online_Auction_Website_TestPhase.pdb
+C:\Users\umer\Documents\Visual Studio 2010\Projects\Online_Auction_Website_TestPhase\Online_Auction_Website_TestPhase\obj\Debug\Online_Auction_Website_TestPhase.dll
+C:\Users\umer\Documents\Visual Studio 2010\Projects\Online_Auction_Website_TestPhase\Online_Auction_Website_TestPhase\obj\Debug\Online_Auction_Website_TestPhase.pdb

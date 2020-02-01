@@ -1,0 +1,2 @@
+﻿users(userid,password,name,fathername,email,mobileNo,address)
+Products(category,item,price,image,Description)
